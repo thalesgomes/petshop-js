@@ -1,0 +1,72 @@
+{
+  "pets": [
+    {
+      "nome": "Batman",
+      "tipo": "cão",
+      "raca": "labrador",
+      "idade": 5,
+      "genero": "M",
+      "vacinado": false,
+      "servicos": [
+        {
+          "nome": "banho",
+          "data": "05-04-2021"
+        },
+        {
+          "nome": "banho",
+          "data": "05-04-2021"
+        },
+        {
+          "nome": "banho",
+          "data": "05-04-2021"
+        }
+      ],
+      "castrado": true
+    },
+    {
+      "nome": "Costelinha",
+      "tipo": "cão",
+      "raca": "vira-lata",
+      "idade": 10,
+      "genero": "M",
+      "vacinado": true,
+      "servicos": [],
+      "castrado": true
+    },
+    {
+      "nome": "Scooby Doo",
+      "tipo": "cão",
+      "raca": "Dogue Alemão",
+      "idade": 51,
+      "genero": "M",
+      "vacinado": false,
+      "servicos": [],
+      "castrado": true
+    },
+    {
+      "nome": "Tom",
+      "tipo": "gato",
+      "raca": "poodle",
+      "idade": 5,
+      "genero": "M",
+      "vacinado": false,
+      "servicos": [
+        {
+          "nome": "tosa",
+          "data": "05-04-2021"
+        }
+      ],
+      "castrado": true
+    },
+    {
+      "nome": "Ada",
+      "tipo": "iguana",
+      "raca": "albina",
+      "idade": 5,
+      "genero": "F",
+      "vacinado": true,
+      "servicos": [],
+      "castrado": true
+    }
+  ]
+}
